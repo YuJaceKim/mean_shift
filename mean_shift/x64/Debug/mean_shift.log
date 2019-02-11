@@ -1,0 +1,36 @@
+﻿  MeanShift.cpp
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(119): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(120): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(121): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(122): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(124): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(134): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(144): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(153): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(179): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(180): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(181): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(182): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(183): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(193): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(202): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(208): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(238): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(255): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(256): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(259): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(293): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jisu\source\repos\mean_shift\mean_shift\meanshift.cpp(296): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+  mean_shift.vcxproj -> C:\Users\Jisu\source\repos\mean_shift\x64\Debug\mean_shift.exe
